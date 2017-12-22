@@ -1,0 +1,15 @@
+build/coverage
+build/junit.xml
+.DS_Store
+*.log
+
+# IDE
+.idea
+.project
+.settings
+.buildpath
+atlassian-ide-plugin.xml
+*.bak
+
+# Composer
+vendor
